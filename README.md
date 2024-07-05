@@ -3,6 +3,11 @@
 # **Project Overview**
 This project aims to classify news articles into one of five categories (sport, business, politics, entertainment, tech) using natural language processing (NLP) techniques and machine learning models. The project includes data preprocessing, feature extraction, model training and evaluation, and final prediction on a test dataset.
 
+- There are 3 Excel files included:
+  1. The testing data
+  2. The training data
+  3. The Label data, that will get overwritten
+
 # **Table of Contents**
   - Project Overview
   - Dataset Description
